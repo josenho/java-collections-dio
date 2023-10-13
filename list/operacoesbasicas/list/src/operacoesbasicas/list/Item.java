@@ -1,4 +1,4 @@
-package operacoesbasicas;
+package operacoesbasicas.list;
 public class Item {
     private String nome;
     private double preco;
